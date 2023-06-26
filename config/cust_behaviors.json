@@ -1,0 +1,18 @@
+[
+	{
+		"code": "LGUI(C)",
+		"name": "LGUI(C)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "LGUI(V)",
+		"name": "LGUI(V)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
