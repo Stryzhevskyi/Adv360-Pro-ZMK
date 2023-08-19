@@ -1,5 +1,10 @@
 # ADV360-PRO-ZMK
 
+## Customization
+[Nodefree config](https://github.com/urob/zmk-nodefree-config)
+
+![Position token map](./assets/position-token-map.png "Appendix A — Position Token Map ")
+
 ## Modifying the keymap
 
 There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI
